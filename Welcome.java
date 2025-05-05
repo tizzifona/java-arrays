@@ -8,7 +8,7 @@ public class Welcome {
         int[] numbers = {10, 20, 30, 40, 50, 60, 70, 80, 90};
 
 
-        //Crea un array que contenga algunos números y usa un bucle 'for-each' e imprime cada número duplicado
+        //Crea un array que contenga algunos números y usa un bucle 'for-each' e imprime cada número duplicado (multiplicado por 2)
 
 
         //Crea un array de tipo char que contenga las vocales en minúsculas y usa un bucle 'for-each' e imprime cada vocal en mayúsculas
