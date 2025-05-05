@@ -7,10 +7,10 @@ public class Boxes {
         Caja 0. Libros
         Caja 1. Utensilios de cocina
         Caja 2. Artículos de baño
-        Caja 4. Bolsos
-        Caja 5. Zapatos
-        Caja 6. Cosas de verano
-        Caja 7. Cosas de invierno
+        Caja 3. Bolsos
+        Caja 4. Zapatos
+        Caja 5. Cosas de verano
+        Caja 6. Cosas de invierno
         */
 
         //Crea un array con las cosas que contienen las cajas
