@@ -17,7 +17,7 @@ public class IceCream {
                 1. Fresa
                 2. Vainilla
             
-            ¿Es correcto? presiona cualquier tecla para continuar
+            ¿Es correcto? presiona intro para continuar
 
             ¡Listo, tenemos tu orden! Acércate al mostrador y Robotina te entregará tu helado
         */
